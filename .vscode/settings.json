@@ -1,0 +1,22 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/edy/intel/openvino_2021/python/python3.6",
+    "/home/edy/intel/openvino_2021/python/python3",
+    "/home/edy/intel/openvino_2021/deployment_tools/tools/post_training_optimization_toolkit",
+    "/home/edy/intel/openvino_2021/deployment_tools/open_model_zoo/tools/accuracy_checker",
+    "/home/edy/intel/openvino_2021/deployment_tools/model_optimizer",
+    "/home/edy/intel/openvino_2021/data_processing/dl_streamer/python",
+    "/home/edy/intel/openvino_2021/data_processing/gstreamer/lib/python3.8/site-packages",
+    "/opt/ros/melodic/lib/python2.7/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/edy/intel/openvino_2021/python/python3.6",
+    "/home/edy/intel/openvino_2021/python/python3",
+    "/home/edy/intel/openvino_2021/deployment_tools/tools/post_training_optimization_toolkit",
+    "/home/edy/intel/openvino_2021/deployment_tools/open_model_zoo/tools/accuracy_checker",
+    "/home/edy/intel/openvino_2021/deployment_tools/model_optimizer",
+    "/home/edy/intel/openvino_2021/data_processing/dl_streamer/python",
+    "/home/edy/intel/openvino_2021/data_processing/gstreamer/lib/python3.8/site-packages",
+    "/opt/ros/melodic/lib/python2.7/dist-packages"
+  ]
+}
